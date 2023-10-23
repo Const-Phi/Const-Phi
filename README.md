@@ -1,9 +1,7 @@
-### Hi there 👋
+<h2 align="center">Достижения</h2>
 
-### Codewars:
 [![CodeWars](https://www.codewars.com/users/Const-Phi/badges/large)](https://www.codewars.com/users/Const-Phi/)
 
-### StackOverflow:
 <a href="https://stackoverflow.com/users/2761685/const-phi"><img src="https://stackoverflow.com/users/flair/2761685.png?theme=dark" width="208" height="58" alt="profile for Const Phi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Const Phi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--
